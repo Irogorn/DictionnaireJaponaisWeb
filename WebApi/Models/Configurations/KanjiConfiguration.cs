@@ -90,7 +90,7 @@ namespace WebApi.Models.Configurations
             builder.HasData(
                 new Kanji
                 {
-                    Id =1,
+                    Id = 1,
                     Jlpt = 1,
                     Kanji1 = "撮",
                     NbStrokes = 15,
@@ -118,7 +118,7 @@ namespace WebApi.Models.Configurations
                 {
                     Id = 4,
                     Jlpt = 4,
-                    Kanji1 = "撮",
+                    Kanji1 = "軽",
                     NbStrokes = 12,
                     On = "けい",
                     OnKa = "ケイ",
